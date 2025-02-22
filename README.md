@@ -34,9 +34,9 @@ Through these steps, we can obtain:
 - **S1 Dataset**: As a rare high-quality dataset, we have already included the S1 dataset in the project.
 
 ## Update Plan
-- **[ ] K-and-K/knights-and-knaves**: This task focuses on identifying robbers and knights, requiring high levels of dialectical ability. Recently, there have been successful attempts, and we plan to incorporate it into the current plan. It is expected to be online soon.
+- **[ ] K-and-K/knights-and-knaves**: This task focuses on identifying robbers and knights, requiring high levels of dialectical ability. Recently, there have been successful attempts, and we incorporate it into the current plan. It is expected to be online soon.
 - **[ ] countdown**: This task from tinyzero encourages the model to attempt and verify, generating significant influence within the community with large data volume. We will mine the difficult parts of this dataset.
-- **[ ] homebrewltd/Maze-Reasoning-GRPO-v0.1**: This interesting project models a 2D maze graph using text and lets the model navigate the maze using text. It appears to be a challenging task that can allow the model to backtrack and perceive modeling, and we plan to include it in our mining plan.
+- **[ ] homebrewltd/Maze-Reasoning-GRPO-v0.1**: This interesting project models a 2D maze graph using text and lets the model navigate the maze using text. It appears to be a challenging task that can allow the model to backtrack and perceive modeling, and we  include it in our mining plan.
 
 ## Notes
 This project focuses on enhancing the reasoning capability of large models, so task design and sample selection will strictly adhere to relevant principles. If the dataset authors or any stakeholders need to communicate, please feel free to contact me.
