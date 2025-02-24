@@ -40,7 +40,7 @@ Through these steps, we can obtain:
 - **[ ] homebrewltd/Maze-Reasoning-GRPO-v0.1**: This interesting project models a 2D maze graph using text and lets the model navigate the maze using text. It appears to be a challenging task that can allow the model to backtrack and perceive modeling, and we  include it in our mining plan.
 
 ## Notes
-This project focuses on enhancing the reasoning capability of large models, so task design and sample selection will strictly adhere to relevant principles. If the dataset authors or any stakeholders need to communicate, please feel free to contact me.
+This project focuses on enhancing the reasoning capability of large models, so task  and sample selection will strictly adhere to relevant principles. If the dataset authors or any stakeholders need to communicate, please feel free to contact me.
 
 ## Contribution
 We welcome any developers or researchers to join us in building and optimizing the HardSample difficult sample repository. Your contributions will significantly impact the improvement of large models' reasoning capabilities.
