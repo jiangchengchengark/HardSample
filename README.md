@@ -34,7 +34,7 @@ Through these steps, we can obtain:
 - **S1 Dataset**: As a rare high-quality dataset, we have already included the S1 dataset in the project.
 
 ## Update Plan
-- **[ ] S1**: This data contains reasoning problems related to mathematics.  [donwload dataset](https://www.alipan.com/s/dz3yRb3Beke)
+- **[✔] S1**: This data contains reasoning problems related to mathematics.  [donwload dataset](https://www.alipan.com/s/dz3yRb3Beke)
 - **[ ] K-and-K/knights-and-knaves**: This task focuses on identifying robbers and knights, requiring high levels of dialectical ability. Recently, there have been successful attempts, and we incorporate it into the current plan. It is expected to be online soon.
 - **[ ] countdown**: This task from tinyzero encourages the model to attempt and verify, generating significant influence within the community with large data volume. We will mine the difficult parts of this dataset.
 - **[ ] homebrewltd/Maze-Reasoning-GRPO-v0.1**: This interesting project models a 2D maze graph using text and lets the model navigate the maze using text. It appears to be a challenging task that can allow the model to backtrack and perceive modeling, and we  include it in our mining plan.
